@@ -1,0 +1,13 @@
+.btn-primary {
+	margin: 15px;
+	width: 100vh;
+}
+@media(min-width: 888px){
+	.btn-primary {
+		width: 90%;
+	}
+}
+.modal-button {
+	display: flex;
+	justify-content: center;
+}
